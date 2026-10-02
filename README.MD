@@ -1,56 +1,76 @@
-# VIRTUSA - M.Tech Internship Programming Tasks
+# VIRTUSA  M.Tech Internship – Programming Tasks
 
-## Team 4 - Sairam Engineering College - SEC 4
+## Team 4 – Sairam Engineering College – SEC 4
 
 ### Member: Abhienaya Sri
 
-This folder contains the 9 programming tasks assigned to Abhienaya Sri
-for the M Tech Internship Programming Tasks.
-
 ---
 
-## Technologies Used
+## 📌 Overview
+
+This repository contains the programming tasks assigned to **Abhienaya Sri**
+as part of the **M Tech Internship – Programming Tasks** for Team 4,
+Sairam Engineering College – SEC 4.
+
+The assignment consists of **9 programming tasks** distributed across:
 
 - Java
 - TypeScript
 - JavaScript
-- HTML
-- CSS
+- HTML/CSS
+
+The programs demonstrate fundamental programming concepts including:
+
+- File handling
+- String manipulation
+- Number processing
+- Prime number generation
+- Generic programming
+- Linked lists
+- CRUD operations
+- Object-oriented programming
+- Abstract classes
+- Array processing
+- DOM manipulation
+- Dynamic theme switching
 
 ---
 
-# 1. Java Programming
+# 👩‍💻 Student Details
 
-## 1.1 File I/O and Word Count
+| Field | Details |
+|---|---|
+| Name | Abhienaya Sri |
+| Team | Team 4 |
+| Section | SEC 4 |
+| Institution | Sairam Engineering College |
+| Internship | M Tech Internship |
+| Assignment | Programming Tasks |
 
-### Question
+---
 
-Read data from a text file, count words, and write the output to another
-file using I/O streams.
+# 📂 Repository Structure
 
-### File
-
-`WordCountFile.java`
-
-### Input
-
-`input.txt`
-
-Example:
-
-Java is a programming language.
-Java is easy to learn.
-
-### Output
-
-`output.txt`
-
-Example:
-
-Total number of words: 10
-
-### Run
-
-```bash
-javac -d . WordCountFile.java
-java -cp . WordCountFile
+```text
+virtusa/
+│
+├── README.md
+│
+├── java/
+│   │
+│   ├── PrimeRange.java
+│   ├── TitleCase.java
+│   ├── WordCountFile.java
+│   └── input.txt
+│
+├── Javascript/
+│   │
+│   ├── EvenOddCount.js
+│   ├── SmallestElement.js
+│   └── ThemeSwitcher.html
+│
+└── Typescript/
+    │
+    ├── GenericLinkedList.ts
+    ├── EmployeeCRUD.ts
+    └── AbstractEmployee.ts
