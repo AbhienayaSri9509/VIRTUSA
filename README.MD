@@ -1,5 +1,4 @@
-# VIRTUSA
-# M Tech Internship - Programming Tasks
+# VIRTUSA - M Tech Internship Programming Tasks
 
 ## Team 4 - Sairam Engineering College - SEC 4
 
